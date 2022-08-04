@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HuntTheNIR", "HuntTheNIR\HuntTheNIR.csproj", "{6A06AED2-E6D3-4F20-AC97-8D565E057EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreen", "SlashScreen\SplashScreen.csproj", "{72E0A3AF-3572-4CFD-8646-063CC6F51661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A06AED2-E6D3-4F20-AC97-8D565E057EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A06AED2-E6D3-4F20-AC97-8D565E057EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A06AED2-E6D3-4F20-AC97-8D565E057EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A06AED2-E6D3-4F20-AC97-8D565E057EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E0A3AF-3572-4CFD-8646-063CC6F51661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E0A3AF-3572-4CFD-8646-063CC6F51661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E0A3AF-3572-4CFD-8646-063CC6F51661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E0A3AF-3572-4CFD-8646-063CC6F51661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24FFF820-F3A5-4299-BB15-B6CDE25742DA}
+	EndGlobalSection
+EndGlobal
