@@ -21,7 +21,7 @@ namespace HuntTheNIR
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Привет, дружище, надеюсь, ты сегодня сдашь научку (;");
-            SplashScreen splashScreen = new SplashScreen(@"C:\Users\Evgen\OneDrive\Рабочий стол\HuntTheNIR\SlashScreen\CcdP.gif", @"C:\Users\Evgen\OneDrive\Рабочий стол\HuntTheNIR\SlashScreen\welcome.wav");
+            SplashScreen splashScreen = new SplashScreen(@"C:\Users\Evgen\Desktop\Mopkovka.HuntTheNIr.CLI\HuntTheNIR\SlashScreen\CcdP.gif", @"C:\Users\Evgen\Desktop\Mopkovka.HuntTheNIr.CLI\HuntTheNIR\SlashScreen\welcome.wav");
             splashScreen.Start();
             Console.ReadKey(true);
             Console.CursorVisible = false;
